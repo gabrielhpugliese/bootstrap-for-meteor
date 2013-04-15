@@ -1,0 +1,3 @@
+Meteor.pages({
+    '/' : {to: 'index'},
+});
